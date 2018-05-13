@@ -1,0 +1,71 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DE-130817.PrjPcb|ReportField=ProjectFullPath~F:\SkyDrive\OtvoreniProjekti\SuperBeton\hw\DE-130817\DE-130817.PrjPcb|ReportField=Title~Bill of Materials For Project [DE-130817.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~404|ReportField=ReportTime~14:30:54|ReportField=ReportDate~13.5.2018.|ReportField=ReportDateTime~13.5.2018. 14:30:54|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Topal Osman Paše 18|ReportField=Address2~71000 Sarajevo|ReportField=Address3~Federacija BiH|ReportField=Address4~Bosna i Hercegovina|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~eldar6776@hotmail.com|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~13.5.2018.|ReportField=CurrentTime~14:19:51|ReportField=Date~|ReportField=DocumentFullPathAndName~F:\SkyDrive\OtvoreniProjekti\SuperBeton\hw\DE-130817\DE-130817_01.SchDoc|ReportField=DocumentName~DE-130817_01.SchDoc|ReportField=DocumentNumber~DE-130817|ReportField=DrawnBy~Eldar Dedic|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~4.1.2018.|ReportField=Organization~I-MEDIA GROUP d.o.o.|ReportField=ProjectName~DE-130817.PrjPcb|ReportField=Revision~001|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~Cuc & Com|ReportField=DataSourceFileName~DE-130817.PrjPcb|ReportField=DataSourceFullPath~F:\SkyDrive\OtvoreniProjekti\SuperBeton\hw\DE-130817\DE-130817.PrjPcb|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|10uF|Ceramic Chip Capacitor - Standard|C1, C5, C7, C9, C15, C16, C18, C19, C21, C31, C32, C34, C35, C36, C53, C58, C59, C61, C62|0805|C0805|19
+2|100nF|Ceramic Chip Capacitor - Standard|C2, C3, C4, C6, C8, C10, C13, C14, C17, C20, C22, C23, C24, C26, C27, C28, C29, C30, C33, C37, C39, C40, C41, C42, C43, C44, C45, C46, C47, C49, C50, C51, C54, C57, C60, C82, C83|0603|C0603|37
+3|22pF|Ceramic Chip Capacitor - Standard|C11, C12|0603|C0603|2
+4|1uF|Ceramic Chip Capacitor - Standard|C25, C48|0603|C0603|2
+5|1000uF|Aluminum Electrolytic Capacitor, Radial Style with Long Leads: 1000uF, 16V|C38|CAPPR5-10x16|EKA00DD410D00|1
+6|EKA00AA247F00|Aluminum Electrolytic Capacitor, Radial Style with Long Leads: 47uF, 35V|C52, C56|CAPPR2-5X11|EKA00AA247F00|2
+7|VP52BY104|Dipped Radial Multilayer Ceramic Capacitor X7R: 100nF|C55|VP52-2.5|VP52BY104|1
+8|EKA00JL422H00|Aluminum Electrolytic Capacitor, Radial Style with Long Leads: 2200uF, 50V|C79, C80|CAPPR7.5-16X35.5|EKA00JL422H00|2
+9|VP60BA104FB|Dipped Radial Multilayer Ceramic Capacitor COG (NPO): 100nF, 100V|C81|VP60-3.6|VP60BA104FB|1
+10|1N4001|Schottky Rectifier|D1, D2|SMA|10MQ060N|2
+11|SM712|TVS Diode WE-TVS-Standard, VRWM=5.0V|D3|SOT23_3L|824022|1
+12|3V3|Zener Voltage Regulator, 300 mW, 2-Pin SOD-323, Pb-Free, Tape and Reel|D4, D5, D6, D7, D8, D9, D10, D11|ONSC-SOD-323-2-477-02_V|MM3Z33VT1G|8
+13|1N4148|General-purpose Diode|D12|SOD323|BAS321|1
+14|SZMMSZ12T1G|Zener Voltage Regulator, 500 mW, 2-Pin SOD-123, Pb-Free, Tape and Reel|D13, D14, D15, D16, D17, D18, D19, D20, D21, D22, D23, D24, D25, D26, D27, D28|ONSC-SOD-123-2-425-04_V|SZMMSZ12T1G|16
+15|SRA-5VDC-CL|SPDT PCB relay 5Vdc coil|K1, K2, K3, K4, K5, K6, K7, K8, K9, K10, K11, K12, K13, K14, K15, K16|SRA-5VDC-CL|SRA-5VDC-CL|16
+16|120R|SMD EMI Suppression Ferrite Bead WE-CBF, Z = 120 Ohm|L2|SMD-0805|74279202|1
+17|SPI2_EXP|Header, 3-Pin, Dual row|P1|HDR2X3|Header 3X2|1
+18|10K NTC|Header, 2-Pin|P2|HDR1X2|Header 2|1
+19|HC12_RADIO|Header, 5-Pin|P3|HDR1X5|Header 5|1
+20|nRF905|Header, 7-Pin, Dual row|P4|HDR2X7|Header 7X2|1
+21|NRF24L01|Header, 4-Pin, Dual row|P5|HDR2X4|Header 4X2|1
+22|ULINK_ICSP|Header, 5-Pin|P6|HDR1X5|Header 5|1
+23|TERMINAL BLOK 3|3 pinski terminal blok konektor|P7, P9, P10, P12, P13, P14, P15, P17, P18, P19, P20, P21, P22, P24, P25, P26, P27|TERMINAL BLOK 3|TERMINAL BLOK 3|17
+24|TERMINAL BLOK 2|2 pinski terminal blok|P8, P30, P31, P32, P33, P34, P35, P36, P37, P38, P39, P40, P41, P42, P43, P44, P45, P46|TERMINAL BLOK 2|TERMINAL BLOK 2|18
+25|DIN_VCC|Header, 2-Pin, Dual row|P11|HDR2X2|Header 2X2|1
+26|DIGITAL_INPUT|Header, 8-Pin|P16|HDR1X8|Header 8|1
+27|DIN_VSS|Header, 2-Pin, Dual row|P23|HDR2X2|Header 2X2|1
+28|I2C_PWM_0_15|Header, 6-Pin|P28|HDR1X6|Header 6|1
+29|I2C_PWM_16_31|Header, 6-Pin|P29|HDR1X6|Header 6|1
+30|Header 9X2|Header, 9-Pin, Dual row|P47|HDR2X9|Header 9X2|1
+31|BSS138LT1|Power MOSFET, 200 mA, 50 V, N-Channel, 3-Pin SOT-23, Tape and Reel|Q1, Q2, Q3|ONSC-SOT-23-3-318-08_V|BSS138LT1|3
+32|MMBT5551|NPN General-purpose Transistor|Q4, Q5, Q6, Q7, Q24, Q25, Q26, Q27, Q44, Q45, Q46, Q47, Q64, Q65, Q66, Q67|SOT23_N|BC817|16
+33|MMBT5401|PNP General-purpose Transistor|Q8, Q10, Q12, Q14, Q16, Q17, Q22, Q23, Q28, Q30, Q32, Q34, Q40, Q41, Q42, Q43, Q48, Q50, Q52, Q54, Q60, Q61, Q62, Q63, Q68, Q70, Q72, Q74, Q80, Q81, Q82, Q83|SOT23_N|BC807|32
+34|IRF540N|HEXFET Power MOSFET|Q9, Q11, Q13, Q15, Q29, Q31, Q33, Q35, Q49, Q51, Q53, Q55, Q69, Q71, Q73, Q75|TO-220AB|IRF540N|16
+35|BSS123|N-channel Enhancement Mode Vertical D-MOSFET|Q18, Q19, Q20, Q21, Q36, Q37, Q38, Q39, Q56, Q57, Q58, Q59, Q76, Q77, Q78, Q79|SOT23_N|BSS123|16
+36|820R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R1|ERA-0603|ERAV|1
+37|2K2|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R2, R41, R43|ERA-0603|ERAV|3
+38|NF|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R3|ERA-0603|ERAV|1
+39|10K|Rectangular Thick Film Chip Resistor, 10 Ohm to 330k Ohm Range, 0.1% and 0.5% Tolerance, 0603 Size, 0.063 W, Rectangular Thick Film Chip Resistor, 10 Ohm to 330k Ohm Range, 0.1% and 0.5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R4, R5, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R40, R42, R44|ERA-0603|ERA3Y, ERA3Y, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV, ERAV|21
+40|100R|Rectangular Thick Film Chip Resistor, 10 Ohm to 330k Ohm Range, 0.1% and 0.5% Tolerance, 0603 Size, 0.063 W|R6, R7|ERA-0603|ERA3Y|2
+41|0R|Rectangular Thick Film Chip Resistor, 10 Ohm to 330k Ohm Range, 0.1% and 0.5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R8, R145|ERA-0603|ERA3Y, ERAV|2
+42|330R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Rectangular Thick Film Chip Resistor, 10 Ohm to 330k Ohm Range, 0.1% and 0.5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R9, R15, R18|ERA-0603|ERAV, ERA3Y, ERAV|3
+43|470R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R10, R12|ERA-0603|ERAV|2
+44|820R|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R11, R17|ERA-0805|ERA6Y|2
+45|10R|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R13, R16|ERA-0805|ERA6Y|2
+46|120R|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R14|ERA-0805|ERA6Y|1
+47|510R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R19|ERA-0603|ERAV|1
+48|1K|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R20, R51, R53, R57, R59, R67, R68, R69, R70, R75, R77, R81, R83, R91, R92, R93, R94, R99, R101, R105, R107, R115, R116, R117, R118, R123, R125, R129, R131, R139, R140, R141, R142|ERA-0805|ERA6Y|33
+49|330R|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R21|ERA-0805|ERA6Y|1
+50|1K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R22|ERA-0603|ERAV|1
+51|100K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R39|ERA-0603|ERAV|1
+52|330K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R45|ERA-0603|ERAV|1
+53|39K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R46|ERA-0603|ERAV|1
+54|10K|Thick Film Chip Resistor, 1 Ohm to 10M Ohm Range, 5% Tolerance, 1812 Size, 0.5 W|R47, R48, R49, R50, R71, R72, R73, R74, R95, R96, R97, R98, R119, R120, R121, R122|12-1812|ERJ12|16
+55|100R|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R52, R54, R55, R56, R58, R60, R61, R62, R76, R78, R79, R80, R82, R84, R85, R86, R100, R102, R103, R104, R106, R108, R109, R110, R124, R126, R127, R128, R130, R132, R133, R134|ERA-0805|ERA6Y|32
+56|10K|Rectangular Thick Film Chip Resistor, 10 Ohm to 1M Ohm Range, 0.1% and 0.5% Tolerance, 0805 Size, 0.1 W|R63, R64, R65, R66, R87, R88, R89, R90, R111, R112, R113, R114, R135, R136, R137, R138|ERA-0805|ERA6Y|16
+57|STM32F103C8T6|ARM Cortex-M3 32-bit MCU, 64 KB Flash, 20 KB Internal RAM, 37 I/Os, 48-pin LQFP, -40 to 85 degC, Tray|U1|STM-LQFP48_N|STM32F103C8T6|1
+58|TL431CL3T|Programmable Voltage Reference, 2.5 to 36V, 3-Pin SOT23-3, Tape and Reel|U2|SOT23-3_N|TL431CL3T|1
+59|B0505S/D-1W|1W isolated dc dc converter|U3|B0505S-1W|B0505S/D|1
+60|AT24C1024|64Kbit, 400kHz, 1.7V, I2C Serial EEPROM, 8-Pin SOIC 150mil, Commercial Temperature|U4|SOIC-SN8_N|24AA64/SN|1
+61|PS2501L|4-Pin Phototransistor Optocoupler|U5|SOP4|PC817 optocoupler|1
+62|SN75176BD|Differential Bus Transceiver|U6|D008_L|SN75176BD|1
+63|6N137|High CMR, High Speed TTL Compatibile Optocoupler|U7, U10|SMD-8|6N137|2
+64|LM317MT|Three-Terminal Adjustable Output Positive Voltage Regulator|U8|221A-06|LM317MT|1
+65|REG1117-3.3|800mA and 1A Low Dropout Positive Regulator 2.85V, 3.3V, 5V, and Adjustable|U9|ZZ311|REG1117-3.3|1
+66|MC74HC595AD|8-Bit Serial-Input/Serial or Prallel-Output Shift Register with Latched 3-State Outputs|U11, U14|751B-05_N|MC74HC595AD|2
+67|ULN2003D|Seven Darlington Array|U12, U13, U15|SO16_N|ULN2003D|3
+68|STEP DOWN BUCK|Positive Voltage Regulator, 5V, 3-Pin TO-220|U16|TO220|L7805CV|1
+69|B0512S/D-1W|1W isolated dc dc converter|U17, U18|B0505S-1W|B0505S/D|2
+70|8MHz|Surface Mount Quartz Crystal|Y1|HC49/4H_SMX|HC49/4H_SMX|1
